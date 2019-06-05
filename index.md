@@ -23,8 +23,8 @@ I am a PhD candidate at University of Alabama. My research interests include ana
         </div>
 
         <div class="span2">
-        <a href="../assets/kegg_networks.png">
-            <img src="../assets/kegg_networks.png"
+        <a href="../assets/fly_kegg.png">
+            <img src="../assets/fly_kegg.png"
                   title="Vishal H. Oza" alt="Vishal H. Oza"/></a>
         </div>
     </div>
