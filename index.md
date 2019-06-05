@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Vishal H. Oza
+description: I am a PhD candidate at University of Alabama.
+keywords: vishal oza, metabolomics, metabolic networks
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am a PhD candidate at University of Alabama. My research interests include analyzing high dimensional biological data particularly metabolomics data using machine learning and network theory. My current research involves constructing network models of *Drosophila melanogaster* metabolome from untargeted metabolomics data.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -18,14 +18,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Vishal H. Oza<br/>
+            Email: vhoza@crimson.ua.edu<br/>
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+        <a href="../assets/kegg_networks.png">
+            <img src="../assets/kegg_networks.png"
+                  title="Vishal H. Oza" alt="Vishal H. Oza"/></a>
         </div>
     </div>
 </div>
@@ -34,8 +34,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/vishaloza">GitHub</a></li>
+          <li><a href="https://twitter.com/vishoza">Twitter (@vishoza)</a></li>
       </ul>
   </div>
 </div>
