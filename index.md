@@ -5,7 +5,7 @@ description: I am a PhD candidate at University of Alabama.
 keywords: vishal oza, metabolomics, metabolic networks, high dimensional data
 ---
 
-I am a PhD candidate at University of Alabama. My research interests include analyzing high dimensional biological data particularly metabolomics data using machine learning and network theory. My current research involves constructing network models of *Drosophila melanogaster* metabolome from untargeted metabolomics data.
+I am a PhD candidate at University of Alabama, Tuscaloosa. My research interests include analyzing high dimensional biological data particularly metabolomics data using machine learning and network theory. My current research involves constructing network models of *Drosophila melanogaster* metabolome from untargeted metabolomics data.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
