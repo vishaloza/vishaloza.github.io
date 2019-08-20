@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-description: Vishal H. Oza's research
+title: Publications
+description: Vishal H. Oza's Publications
 ---
 
 
