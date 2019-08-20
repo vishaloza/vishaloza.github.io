@@ -19,7 +19,7 @@ I am a PhD candidate at University of Alabama, Tuscaloosa. My research interests
             Email: vhoza@crimson.ua.edu<br/>
         </div>
 
-        <div class="span2">
+        <div class="span5">
         <a href="../assets/fly_kegg.png">
             <img src="../assets/fly_kegg.png"
                   title="Vishal H. Oza" alt="Vishal H. Oza"/></a>
