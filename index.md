@@ -5,7 +5,7 @@ description: I am a PhD candidate at University of Alabama.
 keywords: vishal oza, metabolomics, metabolic networks, high dimensional data analysis
 ---
 <div class="container">
-  <div class="span4">
+  <div class="span8">
       <a href="../assets/website_frontpage 1.jpg">
       <img src="../assets/website_frontpage 1.jpg"
        title="Metabolome" alt="Metabolome"/></a>
