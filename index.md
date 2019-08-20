@@ -33,7 +33,6 @@ I am a PhD candidate at University of Alabama, Tuscaloosa. My research interests
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/vishaloza">GitHub</a></li>
           <li><a href="https://twitter.com/vishoza">Twitter (@vishoza)</a></li>
       </ul>
