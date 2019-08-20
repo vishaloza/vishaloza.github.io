@@ -6,9 +6,9 @@ keywords: vishal oza, metabolomics, metabolic networks, high dimensional data an
 ---
 <div class="container">
   <div class="span4">
-      <a href="../assets/fly_kegg.png">
-      <img src="../assets/fly_kegg.png"
-       title="Fly Metabolome" alt="Fly Metabolome"/></a>
+      <a href="../assets/website_frontpage1.jpg">
+      <img src="../assets/website_frontpage1.jpg"
+       title="Metabolome" alt="Metabolome"/></a>
   </div>
 </div>
 ---
